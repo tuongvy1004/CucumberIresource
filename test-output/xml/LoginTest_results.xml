@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sample Test Case"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.082">
+  <properties />
+  
+  
+            <testcase name="TC_001_ValidInput" time="3.484" classname="LoginTest" />
+                <testcase name="TC_005_BlankPass" time="2.736" classname="LoginTest" />
+                <testcase name="TC_004_BlankEmail" time="0.613" classname="LoginTest" />
+                <testcase name="TC_008_SignUpLink" time="2.280" classname="LoginTest" />
+                <testcase name="TC_007_MinimumPass" time="2.759" classname="LoginTest" />
+                <testcase name="TC_006_SpaceEmail" time="2.592" classname="LoginTest" />
+                <testcase name="TC_003_InvalidPassword" time="2.769" classname="LoginTest" />
+                <testcase name="TC_002_InvalidEmail" time="2.849" classname="LoginTest" />
+      
+</testsuite>

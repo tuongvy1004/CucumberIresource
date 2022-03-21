@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sample Test Case"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="62.327">
+  <properties />
+  
+  
+            <testcase name="SIG_005_ConfirmPass" time="12.493" classname="SignUpTest" />
+                <testcase name="SIG_003_NumberFirstName" time="12.964" classname="SignUpTest" />
+                <testcase name="SIG_002_VerifyrbnPersonaIsSeleted" time="11.440" classname="SignUpTest" />
+                <testcase name="SIG_001_ValidInput" time="12.706" classname="SignUpTest" />
+                <testcase name="SIG_004_BlankFirstName" time="12.724" classname="SignUpTest" />
+      
+</testsuite>
